@@ -1,0 +1,37 @@
+[
+  {
+    "u_id": 0,
+    "author": "Omkar Godbole",
+    "title": "Angel Di Maria transfer kararını verdi!",
+    "description": "İtalyan devi Juventus'un en etkili hücum silahlarından biri olan ve beklenmedik anlarda şapkadan tavşan çıkaran Di Maria, daha iyi bir kontrat ile Juventus formasını giymeye devam edecek.",
+    "imageUrl": "https://cdn.webaslan.com/img/2023/03/29/angel-di-maria-transfer-kararini-verdi-wa-1525-v.jpg"
+  },
+  {
+    "u_id": 1,
+    "author": "Benjamin Pirus",
+    "title": "Messi, Arjantin formasıyla 100'ler kulübüne girdi",
+    "description": "Son dünya şampiyonu Arjantin'in yıldızı Lionel Messi, milli takımının Curaçao ile oynadığı dostluk maçında hat-trick yaparak adını 100'ler kulübüne yazdırdı.",
+    "imageUrl": "https://cdn.webaslan.com/img/5/2023/mess.jpg"
+  },
+  {
+    "u_id": 2,
+    "author": "Malwarebytes Labs",
+    "title": "Galatasaray'da Mertens sevinci!",
+    "description": "Öte yandan Galatasaray'da Dries Mertens sevinci yaşanıyor. Bir süredir sakatlığından dolayı takımdan uzak kalan ve dünkü antrenmanın tamamında takımla birlikte çalışmalara katılan Belçikalı yıldız, Adana Demirspor maçıyla birlikte sahalara geri dönüyor.",
+    "imageUrl": "https://cdn.webaslan.com/img/5/2023/aa-20221225-29835538-29835534-galatasaray-istanbulspor-1680088755.jpg"
+  },
+  {
+    "u_id": 3,
+    "author": "Daniel Sparks",
+    "title": "Why Tesla Stock Fell Sharply Friday Morning - Motley Fool",
+    "description": "Shares are down despite Tesla reporting record third-quarter deliveries. Shares of electric-car maker Tesla(NASDAQ:TSLA) fell Friday morning, declining 5% a few minutes into market open.",
+    "imageUrl": "https://g.foolcdn.com/editorial/images/593799/stock-down.jpg"
+  },
+  {
+    "u_id": 4,
+    "author": "Jessica Bursztynsky",
+    "title": "Twilio hits new 52-week high as stock",
+    "description": "Shares of Twilio extended its gains into Friday, reaching a 52-week high, after the company said in a filing that it expects better-than-expected third-quarter revenue.",
+    "imageUrl": "https://image.cnbcfm.com/api/v1/image/105737636-1550147305726gettyimages-1034802076rr.jpg?v=1601647142"
+  }
+]

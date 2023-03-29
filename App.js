@@ -1,20 +1,30 @@
-import { StatusBar } from 'expo-status-bar';
-import { StyleSheet, Text, View } from 'react-native';
+import React from "react";
+import { SafeAreaView, View, Text, FlatList, StyleSheet } from "react-native";
+import NewsCard from './src/components/NewsCard/NewsCard'
 
-export default function App() {
-  return (
-    <View style={styles.container}>
-      <Text>Open up App.js to start working on your app!</Text>
-      <StatusBar style="auto" />
-    </View>
+import news_data from './src/news_data.json';
+
+
+const App = () => {
+  return(
+    <SafeAreaView style={styles.container}>
+      <View>
+        
+        <FlatList
+          data={news_data}
+          renderItem={({item}) => <NewsCard news={item}/>}
+        />
+
+      </View>
+    </SafeAreaView>
   );
 }
+
+export default App;
 
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    backgroundColor: '#fff',
-    alignItems: 'center',
-    justifyContent: 'center',
+    backgroundColor: '#eceff1',
   },
-});
+})
